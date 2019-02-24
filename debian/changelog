@@ -1,3 +1,9 @@
+regolith-compton-config (1.0-1ubuntu1) bionic; urgency=medium
+
+  * Fix path in install script to resolve build issue. 
+
+ -- Ken Gilmer <kgilmer@gmail.com>  Sat, 23 Feb 2019 21:24:09 -0800
+
 regolith-compton-config (1.0-1) bionic; urgency=medium
 
   * Initial release
