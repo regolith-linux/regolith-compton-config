@@ -16,7 +16,7 @@ all:
 	@echo "Nothing to do"
 
 install:
-	$(INSTALL) -m0644 -D compton.conf $(PATH_COMPTON)
+	$(INSTALL) -m0644 -D configs/compton/compton.conf $(PATH_COMPTON)
 	
 uninstall:
 	rm -f $(PATH_COMPTON)

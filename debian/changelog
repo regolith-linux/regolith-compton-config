@@ -1,3 +1,9 @@
+regolith-compton-config (1.1-1ubuntu1) bionic; urgency=medium
+
+  * More visual effects.
+
+ -- Ken Gilmer <kgilmer@gmail.com>  Sat, 09 Mar 2019 22:17:00 -0800
+
 regolith-compton-config (1.0-1ubuntu1) bionic; urgency=medium
 
   * Fix path in install script to resolve build issue. 
