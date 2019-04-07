@@ -1,3 +1,9 @@
+regolith-compton-config (1.2-1ubuntu1) bionic; urgency=medium
+
+  * Add light shadowing to bar. 
+
+ -- Ken Gilmer <kgilmer@gmail.com>  Sat, 06 Apr 2019 21:29:28 -0700
+
 regolith-compton-config (1.1-1ubuntu1) bionic; urgency=medium
 
   * More visual effects.
