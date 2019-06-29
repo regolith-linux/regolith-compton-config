@@ -8,6 +8,6 @@ Homepage: https://github.com/regolith-linux/regolith-desktop
 Vcs-Git: https://github.com/regolith-linux/regolith-compton-config.git
 
 Package: regolith-compton-config
-Architecture: all
+Architecture: any
 Depends: ${misc:Depends}
 Description: Regolith configuration for Compton
