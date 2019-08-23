@@ -1,3 +1,10 @@
+regolith-compton-config (1.5-1ubuntu1~ppa1) disco; urgency=medium
+
+  * Migrate to new compton config from
+    https://gist.github.com/vemacs/458d101ad0bfb79ab70792ecb977c40c. 
+
+ -- Ken Gilmer <kgilmer@gmail.com>  Thu, 22 Aug 2019 21:01:37 -0700
+
 regolith-compton-config (1.4-1ubuntu1ppa1) bionic; urgency=medium
 
   * Make sure we don't paint shadows across screen borders.
