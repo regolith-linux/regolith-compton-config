@@ -93,6 +93,7 @@ shadow-exclude = [
     "name = 'xfce4-notifyd'",
     "name *= 'VLC'",
     "name *= 'compton'",
+    "name *= 'cpt_frame_window'",
     "name *= 'Chromium'",
     "name *= 'Chrome'",
     "name *= 'wrapper-2.0'",
