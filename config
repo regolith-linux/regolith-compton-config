@@ -241,6 +241,13 @@ wintypes:
     };
     dock = { shadow = true; }
     dnd = { shadow = false; }
-    popup_menu = { opacity = 0.8; }
-    dropdown_menu = { opacity = 0.8; }
+    popup_menu = { 
+        opacity = 1.0; 
+        shadow = false;
+        fade = false;
+    }
+    dropdown_menu = { 
+        opacity = 1.0; 
+        fade = false;
+    }
 };

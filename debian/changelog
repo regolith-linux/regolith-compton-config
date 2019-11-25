@@ -1,3 +1,15 @@
+regolith-compton-config (1.7-1ubuntu1~ppa1) disco; urgency=medium
+
+  * Remove menu opacity. 
+
+ -- Ken Gilmer <kgilmer@gmail.com>  Sun, 24 Nov 2019 19:30:26 -0800
+
+regolith-compton-config (1.6-1ubuntu1~ppa1) disco; urgency=medium
+
+  * Add fixes from @zerotao and @UtahDave .
+
+ -- Ken Gilmer <kgilmer@gmail.com>  Mon, 07 Oct 2019 21:07:27 -0700
+
 regolith-compton-config (1.5-1ubuntu1~ppa1) disco; urgency=medium
 
   * Migrate to new compton config from
